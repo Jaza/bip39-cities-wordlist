@@ -28,7 +28,7 @@ priority):
 - Only plain English characters (for city names that are natively written using a
   non-English-like script, use the most officially recommended English-like
   transliteration)
-- Each city is between 4 and 8 characters in length (no city whose commonly recognised
+- Each city is between 4 and 12 characters in length (no city whose commonly recognised
   name is shorter or longer than that)
 - The first four letters unambiguously identify each city (no two cities whose first
   four letters are identical)
