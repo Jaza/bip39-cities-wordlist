@@ -1,0 +1,44 @@
+/* Thanks to: https://github.com/lucagez/medium.css */
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Lora|Playfair+Display:700i,900');
+
+html, body {
+  margin: 0;
+  width: 100%;
+}
+
+h1 {
+  color: rgba(0, 0, 0, 0.84);
+  text-rendering: optimizeLegibility;
+  font-family: "Lato", sans-serif;
+  line-height: 1.2em;
+  letter-spacing: 0;
+  display: inline-block;
+  font-size: 1.4em;
+  padding: .2em;
+  margin: 1em 0;
+  font-weight: 700;
+  background-color: white;
+}
+
+header, footer {
+  position: absolute;
+  text-align: center;
+  z-index: 1000;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  width: max-content;
+}
+
+html, body, main, #map {
+  height: 100%;
+}
+
+footer {
+  bottom: 0;
+}
+
+.leaflet-popup-content {
+  text-transform: capitalize;
+}
