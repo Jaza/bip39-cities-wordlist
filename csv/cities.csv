@@ -298,7 +298,6 @@ fianarantsoa,madagascar,190000,-21.45596,47.08500
 fier,albania,120000,40.72552,19.55815
 flores,guatemala,40000,16.93095,-89.89151
 fortaleza,brazil,3000000,-3.7284,-38.5225
-foshan,china,9000000,23.0336,113.1152
 frankfurt,germany,2000000,50.1132,8.6823
 frederiksted,us virgin islands,1000,17.71208,-64.88139
 freetown,sierra leone,1500000,8.4814,-13.2687
@@ -426,7 +425,6 @@ jelgava,latvia,50000,56.65153,23.73399
 jenin,palestine,110000,32.4614,35.2984
 jeremie,haiti,30000,18.64474,-74.11360
 jerusalem,israel,1000000,31.77977,35.22629
-jiangmen,china,2000000,22.5826,113.0733
 jiaxing,china,1200000,30.7507,120.7507
 jieyang,china,1200000,23.5558,116.3699
 jilin,china,1500000,43.8571,126.5735
@@ -818,241 +816,239 @@ rotterdam,netherlands,1300000,51.9245,4.4773
 ruhengeri,rwanda,150000,-1.50099,29.63223
 rustavi,georgia,100000,41.54321,45.01030
 rybnik,poland,500000,50.09550,18.54183
-saida,algeria,150000,,
-saipan,northern mariana islands,40000,,
-salalah,oman,300000,,
-salta,argentina,500000,,
-salvador,brazil,2000000,,
-salzburg,austria,100000,,
-samarkand,uzbekistan,1000000,,
-samsun,turkey,1400000,,
-sanaa,yemen,3500000,,
-sanliurfa,turkey,2000000,,
-santiago,chile,7000000,,
-sapporo,japan,2600000,,
-sarajevo,bosnia and herzegovina,600000,,
-sarh,chad,90000,,
-savannakhet,laos,120000,,
-scarborough,trinidad and tobago,20000,,
-seattle,united states,2000000,,
-segou,mali,130000,,
-sejong,south korea,400000,,
-selfoss,iceland,10000,,
-semarang,indonesia,5000000,,
-sendai,japan,2200000,,
-seoul,south korea,25000000,,
-seremban,malaysia,800000,,
-setif,algeria,800000,,
-sevastopol,crimea,550000,,
-seville,spain,1500000,,
-sfax,tunisia,1000000,,
-shanghai,china,24000000,,
-shaoxing,china,2500000,,
-sharjah,united arab emirates,2000000,,
-sheberghan,afghanistan,200000,,
-shenzhen,china,12000000,,
-shijiazhuang,china,5000000,,
-shiraz,iran,1800000,,
-shizuoka,japan,2800000,,
-skhoder,albania,150000,,
-shymkent,kazakhstan,1200000,,
-siauliai,lithuania,110000,,
-sidon,lebanon,160000,,
-sikasso,mali,200000,,
-singapore,singapore,5000000,,
-sinuiju,north korea,350000,,
-sirte,libya,130000,,
-skikda,algeria,200000,,
-skopje,north macedonia,500000,,
-sligo,ireland,20000,,
-slobozia,transnistria,20000,,
-smara,western sahara,60000,,
-sofia,bulgaria,1000000,,
-sohar,oman,200000,,
-sokode,togo,200000,,
-songkhla,thailand,60000,,
-sonsonate,el salvador,60000,,
-sousse,tunisia,800000,,
-split,croatia,170000,,
-srinagar,kashmir,1300000,,
-stanley,falkland islands,3000,,
-stavanger,norway,230000,,
-stirling,scotland,100000,,
-stockholm,sweden,2500000,,
-strasbourg,france,800000,,
-stuttgart,germany,5000000,,
-subotica,serbia,120000,,
-sucre,bolivia,200000,,
-suez,egypt,500000,,
-suqian,china,1000000,,
-surabaya,indonesia,9000000,,
-surat,india,8000000,,
-sukhumi,abkhazia,60000,,
-suva,fiji,200000,,
-suzhou,china,7000000,,
-swakopmund,namibia,75000,,
-swansea,wales,300000,,
-sydney,australia,4000000,,
-szczecin,poland,700000,,
-szeged,hungary,160000,,
-tabora,tanzania,200000,,
-tabriz,iran,1700000,,
-tacna,peru,300000,,
-tahoua,niger,120000,,
-taian,china,1500000,,
-taichung,taiwan,4000000,,
-tainan,taiwan,2000000,,
-taipei,taiwan,7000000,,
-taiyuan,china,4500000,,
-taiz,yemen,1000000,,
-tallinn,estonia,400000,,
-taloqan,afghanistan,200000,,
-tamale,ghana,500000,,
-tampere,finland,400000,,
-tangier,morocco,900000,,
-tanta,egypt,600000,,
-tarawa,kiribati,60000,,
-tarragona,spain,400000,,
-tartu,estonia,100000,,
-tashkent,uzbekistan,3000000,,
-taunggyi,myanmar,300000,,
-tbilisi,georgia,1000000,,
-tebessa,algeria,200000,,
-tegucigalpa,honduras,1000000,,
-tehran,iran,14000000,,
-tekirdag,turkey,1200000,,
-temuco,chile,300000,,
-tetovo,north macedonia,60000,,
-thakhek,laos,25000,,
-thessaloniki,greece,1000000,,
-thies,senegal,400000,,
-thimphu,bhutan,100000,,
-tianjin,china,13000000,,
-tiaret,algeria,200000,,
-tifariti,western sahara,3000,,
-tijuana,mexico,2000000,,
-timisoara,romania,400000,,
-tindouf,algeria,150000,,
-tirana,albania,600000,,
-tlemcen,algeria,150000,,
-toamasina,madagascar,300000,,
-tobruk,libya,170000,,
-tokyo,japan,37000000,,
-toledo,spain,120000,,
-toluca,mexico,2000000,,
-toronto,canada,6000000,,
-torreon,mexico,1400000,,
-torshavn,faroe islands,20000,,
-touba,senegal,1100000,,
-toulouse,france,1300000,,
-townsville,australia,100000,,
-tralee,ireland,25000,,
-trang,thailand,60000,,
-trincomalee,sri lanka,100000,,
-tripoli,libya,2000000,,
-trondheim,norway,200000,,
-trujillo,peru,1000000,,
-tshikapa,dr congo,1000000,,
-tshkinvali,south ossetia,30000,,
-tucuman,argentina,500000,,
-tuguegarao,philippines,160000,,
-tunis,tunisia,3000000,,
-turin,italy,1700000,,
-turku,finland,300000,,
-tutong,brunei,10000,,
-tuzla,bosnia and herzegovina,140000,,
-tyre,lebanon,130000,,
-tyumen,russia,900000,,
-ulaanbaatar,mongolia,2000000,,
-ulsan,south korea,1100000,,
-ulyanovsk,russia,600000,,
-umea,sweden,130000,,
-uppsala,sweden,200000,,
-urmia,iran,1000000,,
-urumqi,china,4000000,,
-usulutan,el salvador,50000,,
-utrecht,netherlands,500000,,
-vadodara,india,1500000,,
-vaduz,liechtenstein,5000,,
-valencia,spain,2000000,,
-valletta,malta,500000,,
-valparaiso,chile,900000,,
-vanadzor,armenia,80000,,
-vancouver,canada,2000000,,
-varanasi,india,1500000,,
-varna,bulgaria,300000,,
-vasteras,sweden,130000,,
-vavuniya,sri lanka,100000,,
-venice,italy,500000,,
-victoria,seychelles,25000,,
-vienna,austria,1000000,,
-vigo,spain,600000,,
-vijayawada,india,1000000,,
-vilnius,lithuania,600000,,
-vinh,vietnam,500000,,
-vinnytsia,ukraine,600000,,
-vitebsk,belarus,300000,,
-vladivostok,russia,600000,,
-vlore,albania,130000,,
-volgograd,russia,1000000,,
-volos,greece,90000,,
-voronezh,russia,1000000,,
-wahran,algeria,800000,,
-wanyjok,south sudan,300000,,
-warsaw,poland,2500000,,
-waterford,ireland,60000,,
-weifang,china,2000000,,
-wellington,new zealand,200000,,
-weno,micronesia,13000,,
-wenzhou,china,2500000,,
-wexford,ireland,20000,,
-wheeland,turks and caicos islands,3000,,
-willemstad,curacao,130000,,
-windhoek,namibia,500000,,
-winnipeg,canada,800000,,
-wonsan,north korea,400000,,
-wrexham,wales,50000,,
-wroclaw,poland,900000,,
-wuhan,china,8000000,,
-wuhu,china,1500000,,
-wuxi,china,4000000,,
-xiamen,china,5000000,,
-xian,china,12000000,,
-xining,china,1500000,,
-xinxiang,china,1300000,,
-xinyang,china,1000000,,
-xuzhou,china,3000000,,
-yallahs,jamaica,10000,,
-yamoussoukro,ivoy coast,350000,,
-yancheng,china,1400000,,
-yangon,myanmar,5000000,,
-yantai,china,2000000,,
-yaren,nauru,1000,,
-yerevan,armenia,1000000,,
-yaounde,cameroon,1000000,,
-yibin,china,1100000,,
-yichang,china,1300000,,
-yinchuan,china,1100000,,
-yogyakarta,indonesia,1500000,,
-yueyang,china,1100000,,
-zadar,croatia,70000,,
-zagreb,croatia,800000,,
-zahle,lebanon,100000,,
-zanzibar,tanzania,200000,,
-zaozhuang,china,1400000,,
-zaporizhzhia,ukraine,800000,,
-zaragoza,spain,700000,,
-zarqa,jordan,700000,,
-zenica,bosnia and herzegovina,160000,,
-zhanjiang,china,1500000,,
-zhaoqing,china,1000000,,
-zhengzhou,china,10000000,,
-zhongshan,china,4000000,,
-zhuhai,china,2000000,,
-zibo,china,3000000,,
-ziguinchor,senegal,200000,,
-zilina,slovakia,160000,,
-zinder,niger,200000,,
-zrenjanin,serbia,100000,,
-zunyi,china,1500000,,
-zurich,switzerland,1800000,,
+saida,algeria,150000,34.8297,0.1497
+saipan,northern mariana islands,40000,15.21287,145.75274
+salalah,oman,300000,17.0176,54.1001
+salta,argentina,500000,-24.7897,-65.4102
+salvador,brazil,2000000,-12.9820,-38.4824
+salzburg,austria,100000,47.79811,13.04609
+samarkand,uzbekistan,1000000,39.65507,66.97592
+samsun,turkey,1400000,41.2946,36.3297
+sanaa,yemen,3500000,15.3532,44.2049
+sanliurfa,turkey,2000000,37.1584,38.7907
+santiago,chile,7000000,-33.43785,-70.65067
+sapporo,japan,2600000,43.0621,141.3535
+sarajevo,bosnia and herzegovina,600000,43.85180,18.38665
+sarh,chad,90000,9.1402,18.3925
+savannakhet,laos,120000,16.5645,104.7546
+scarborough,trinidad and tobago,20000,11.18510,-60.73534
+seattle,united states,2000000,47.6041,-122.3321
+segou,mali,130000,13.4416,-6.2681
+sejong,south korea,400000,36.48059,127.28897
+selfoss,iceland,10000,63.9368,-21.0038
+semarang,indonesia,5000000,-6.9913,110.4226
+sendai,japan,2200000,38.2681,140.8694
+seoul,south korea,25000000,37.5677,126.9807
+seremban,malaysia,800000,2.72285,101.94025
+setif,algeria,800000,36.18978,5.40407
+sevastopol,crimea,550000,44.6055,33.5220
+seville,spain,1500000,37.3883,-5.9958
+sfax,tunisia,1000000,34.7392,10.7587
+shanghai,china,24000000,31.2334,121.4662
+shaoxing,china,2500000,29.9984,120.5763
+sharjah,united arab emirates,2000000,25.3471,55.4178
+sheberghan,afghanistan,200000,36.6610,65.7600
+shenzhen,china,12000000,22.5444,114.0539
+shijiazhuang,china,5000000,38.0435,114.5084
+shiraz,iran,1800000,29.6060,52.5387
+shizuoka,japan,2800000,34.9802,138.3824
+skhoder,albania,150000,42.06784,19.51155
+shymkent,kazakhstan,1200000,42.3141,69.5908
+siauliai,lithuania,110000,55.9339,23.3161
+sidon,lebanon,160000,33.56189,35.37804
+sikasso,mali,200000,11.3163,-5.6796
+singapore,singapore,5000000,1.29023,103.85161
+sinuiju,north korea,350000,40.0948,124.3979
+sirte,libya,130000,31.2061,16.5836
+skikda,algeria,200000,36.88024,6.90731
+skopje,north macedonia,500000,41.9969,21.4323
+sligo,ireland,20000,54.27207,-8.47527
+slobozia,transnistria,20000,46.72792,29.70823
+smara,western sahara,60000,26.74400,-11.66422
+sofia,bulgaria,1000000,42.6978,23.3199
+sohar,oman,200000,24.3437,56.7416
+sokode,togo,200000,8.9836,1.1433
+songkhla,thailand,60000,7.1978,100.5929
+sonsonate,el salvador,60000,13.72067,-89.72766
+sousse,tunisia,800000,35.82910,10.64043
+split,croatia,170000,43.51177,16.44018
+srinagar,kashmir,1300000,34.0746,74.8183
+stanley,falkland islands,3000,-51.69306,-57.85649
+stavanger,norway,230000,58.96988,5.73195
+stirling,scotland,100000,56.11805,-3.93654
+stockholm,sweden,2500000,59.32502,18.07071
+strasbourg,france,800000,48.58450,7.75068
+stuttgart,germany,5000000,48.7780,9.1805
+subotica,serbia,120000,46.0992,19.6648
+sucre,bolivia,200000,-19.0483,-65.2588
+suez,egypt,500000,29.9725,32.5367
+suqian,china,1000000,33.960,118.273
+surabaya,indonesia,9000000,-7.24643,112.73775
+surat,india,8000000,21.2097,72.8325
+sukhumi,abkhazia,60000,43.00330,41.01943
+suva,fiji,200000,-18.1418,178.4427
+suzhou,china,7000000,31.313,120.622
+swakopmund,namibia,75000,-22.6771,14.5322
+swansea,wales,300000,51.6195,-3.9455
+sydney,australia,4000000,-33.86982,151.20822
+szczecin,poland,700000,53.4298,14.5514
+szeged,hungary,160000,46.2545,20.1489
+tabora,tanzania,200000,-5.0229,32.8114
+tabriz,iran,1700000,38.0734,46.2981
+tacna,peru,300000,-18.0143,-70.2500
+tahoua,niger,120000,14.88992,5.26194
+taian,china,1500000,36.1998,117.0806
+taichung,taiwan,4000000,24.1640,120.6477
+tainan,taiwan,2000000,22.9922,120.1842
+taipei,taiwan,7000000,25.03767,121.56363
+taiyuan,china,4500000,37.8721,112.5453
+taiz,yemen,1000000,13.5744,44.0215
+tallinn,estonia,400000,59.43719,24.74542
+taloqan,afghanistan,200000,36.7358,69.5351
+tamale,ghana,500000,9.4052,-0.8429
+tampere,finland,400000,61.49809,23.75999
+tangier,morocco,900000,35.77012,-5.80284
+tanta,egypt,600000,30.78391,30.99870
+tarawa,kiribati,60000,1.34894,173.03883
+tarragona,spain,400000,41.11732,1.25450
+tartu,estonia,100000,58.37998,26.72338
+tashkent,uzbekistan,3000000,41.3126,69.2791
+taunggyi,myanmar,300000,20.79102,97.03674
+tbilisi,georgia,1000000,41.69358,44.80156
+tebessa,algeria,200000,35.4046,8.1203
+tegucigalpa,honduras,1000000,14.10580,-87.20407
+tehran,iran,14000000,35.68921,51.38954
+tekirdag,turkey,1200000,40.9777,27.5111
+temuco,chile,300000,-38.7357,-72.5911
+tetovo,north macedonia,60000,42.00674,20.97264
+thakhek,laos,25000,17.39481,104.80618
+thessaloniki,greece,1000000,40.64034,22.93533
+thies,senegal,400000,14.7905,-16.9231
+thimphu,bhutan,100000,27.47146,89.63376
+tianjin,china,13000000,39.1146,117.1912
+tiaret,algeria,200000,35.3665,1.3177
+tifariti,western sahara,3000,26.15961,-10.55893
+tijuana,mexico,2000000,32.5315,-117.0202
+timisoara,romania,400000,45.7542,21.2263
+tindouf,algeria,150000,27.67266,-8.13932
+tirana,albania,600000,41.32855,19.81848
+tlemcen,algeria,150000,34.88192,-1.31699
+toamasina,madagascar,300000,-18.15539,49.41015
+tobruk,libya,170000,32.07727,23.96015
+tokyo,japan,37000000,35.68236,139.76214
+toledo,spain,120000,39.85596,-4.02400
+toluca,mexico,2000000,19.2926,-99.6569
+toronto,canada,6000000,43.65365,-79.38395
+torreon,mexico,1400000,25.5421,-103.4081
+torshavn,faroe islands,20000,62.01196,-6.76801
+touba,senegal,1100000,14.86458,-15.87576
+toulouse,france,1300000,43.60420,1.44419
+townsville,australia,100000,-19.25682,146.82361
+tralee,ireland,25000,52.26913,-9.70591
+trang,thailand,60000,7.55595,99.60789
+trincomalee,sri lanka,100000,8.57640,81.23437
+tripoli,libya,2000000,32.89649,13.17750
+trondheim,norway,200000,63.43044,10.39495
+trujillo,peru,1000000,-8.11200,-79.02861
+tshikapa,dr congo,1000000,-6.42355,20.78888
+tskhinvali,south ossetia,30000,42.22528,43.97072
+tucuman,argentina,500000,-26.82997,-65.20369
+tuguegarao,philippines,160000,17.6118,121.7289
+tunis,tunisia,3000000,36.80018,10.18570
+turin,italy,1700000,45.0678,7.6822
+turku,finland,300000,60.45159,22.26774
+tutong,brunei,10000,4.8069,114.6588
+tuzla,bosnia and herzegovina,140000,44.53907,18.67513
+tyre,lebanon,130000,33.27203,35.19650
+tyumen,russia,900000,57.1536,65.5410
+ulaanbaatar,mongolia,2000000,47.91873,106.91757
+ulsan,south korea,1100000,35.53942,129.31183
+ulyanovsk,russia,600000,54.3147,48.4010
+umea,sweden,130000,63.8259,20.2619
+uppsala,sweden,200000,59.8588,17.6372
+urmia,iran,1000000,37.54832,45.06660
+urumqi,china,4000000,43.8242,87.6146
+usulutan,el salvador,50000,13.34382,-88.43805
+utrecht,netherlands,500000,52.0906,5.1207
+vadodara,india,1500000,22.2977,73.1957
+vaduz,liechtenstein,5000,47.13935,9.52257
+valencia,spain,2000000,39.4688,-0.3749
+valletta,malta,500000,35.89909,14.51367
+valparaiso,chile,900000,-33.04587,-71.62004
+vanadzor,armenia,80000,40.81128,44.48553
+vancouver,canada,2000000,49.2612,-123.1138
+varanasi,india,1500000,25.33573,83.00806
+varna,bulgaria,300000,43.2073,27.9173
+vasteras,sweden,130000,59.61095,16.54610
+vavuniya,sri lanka,100000,8.7590,80.4999
+venice,italy,500000,45.43714,12.33584
+victoria,seychelles,25000,-4.62309,55.45220
+vienna,austria,1000000,48.2085,16.3731
+vigo,spain,600000,42.23757,-8.72478
+vijayawada,india,1000000,16.5090,80.6184
+vilnius,lithuania,600000,54.6875,25.2823
+vinh,vietnam,500000,18.66975,105.68419
+vinnytsia,ukraine,600000,49.2321,28.4687
+vitebsk,belarus,300000,55.1931,30.2066
+vladivostok,russia,600000,43.11508,131.88538
+vlore,albania,130000,40.47039,19.49129
+volgograd,russia,1000000,48.7075,44.5139
+volos,greece,90000,39.36267,22.94005
+voronezh,russia,1000000,51.6613,39.2013
+wanyjok,south sudan,300000,9.01289,27.57182
+warsaw,poland,2500000,52.2322,21.0065
+waterford,ireland,60000,52.26107,-7.11227
+weifang,china,2000000,36.705,119.155
+wellington,new zealand,200000,-41.28858,174.77617
+weno,micronesia,13000,7.446100,151.841585
+wenzhou,china,2500000,27.9959,120.6951
+wexford,ireland,20000,52.33676,-6.46082
+wheeland,turks and caicos islands,3000,21.82011,-72.28695
+willemstad,curacao,130000,12.11017,-68.93711
+windhoek,namibia,500000,-22.5777,17.0762
+winnipeg,canada,800000,49.8949,-97.1404
+wonsan,north korea,400000,39.17259,127.42836
+wrexham,wales,50000,53.0468,-2.9931
+wroclaw,poland,900000,51.1090,17.0333
+wuhan,china,8000000,30.5963,114.2990
+wuhu,china,1500000,31.3545,118.4258
+wuxi,china,4000000,31.5768,120.2921
+xiamen,china,5000000,24.4800,118.0859
+xian,china,12000000,34.261,108.938
+xining,china,1500000,36.6173,101.7756
+xinxiang,china,1300000,35.3011,113.9186
+xinyang,china,1000000,32.144,114.079
+xuzhou,china,3000000,34.2654,117.1809
+yallahs,jamaica,10000,17.87365,-76.56196
+yamoussoukro,ivoy coast,350000,6.82004,-5.27739
+yancheng,china,1400000,33.352,120.149
+yangon,myanmar,5000000,16.7976,96.1599
+yantai,china,2000000,37.4601,121.4429
+yaren,nauru,1000,-0.54696,166.91642
+yerevan,armenia,1000000,40.1782,44.5128
+yaounde,cameroon,1000000,3.86909,11.52131
+yibin,china,1100000,28.754,104.642
+yichang,china,1300000,30.696,111.278
+yinchuan,china,1100000,38.485,106.235
+yogyakarta,indonesia,1500000,-7.8015,110.3659
+yueyang,china,1100000,29.3605,113.1231
+zadar,croatia,70000,44.11674,15.23495
+zagreb,croatia,800000,45.8118,15.9803
+zahle,lebanon,100000,33.8466,35.9023
+zanzibar,tanzania,200000,-6.16641,39.20746
+zaozhuang,china,1400000,34.8099,117.3148
+zaporizhzhia,ukraine,800000,47.8508,35.1185
+zaragoza,spain,700000,41.6516,-0.8803
+zarqa,jordan,700000,32.06679,36.08906
+zenica,bosnia and herzegovina,160000,44.19987,17.90892
+zhanjiang,china,1500000,21.273,110.358
+zhaoqing,china,1000000,23.0516,112.4595
+zhengzhou,china,10000000,34.7546,113.6591
+zhongshan,china,4000000,22.5186,113.3865
+zibo,china,3000000,36.8208,117.9808
+ziguinchor,senegal,200000,12.56386,-16.27316
+zilina,slovakia,160000,49.2233,18.7392
+zinder,niger,200000,13.8062,8.9896
+zrenjanin,serbia,100000,45.3802,20.3906
+zunyi,china,1500000,27.6930,106.9162
+zurich,switzerland,1800000,47.37465,8.54101
