@@ -63,6 +63,7 @@ arequipa,peru,1000000,-16.39768,-71.53687
 arima,trinidad and tobago,70000,10.63838,-61.28268
 arkhangelsk,russia,300000,64.5422,40.5354
 armagh,northern ireland,15000,54.3491,-6.6543
+armidale,australia,25000,-30.51473,151.66592
 arusha,tanzania,600000,-3.3686,36.6871
 ashdod,israel,200000,31.79717,34.65019
 asheville,united states,300000,35.59538,-82.55058
@@ -128,6 +129,7 @@ beaumont,united states,150000,30.0847,-94.1027
 bechar,algeria,160000,31.6239,-2.2165
 beckley,united states,20000,37.77801,-81.18845
 beersheba,israel,200000,31.24664,34.79233
+bega,australia,4500,-36.67809,149.84098
 beijing,china,18000000,39.913,116.386
 beirut,lebanon,2500000,33.8975,35.4803
 bejaia,algeria,200000,36.75216,5.06350
@@ -204,6 +206,7 @@ bukhara,uzbekistan,300000,39.7702,64.4225
 bunbury,australia,80000,-33.3268,115.6373
 bundaberg,australia,75000,-24.86565,152.35136
 burgos,spain,200000,42.3450,-3.6966
+burketown,australia,200,-17.74012,139.54649
 burlington,united states,100000,44.47587,-73.21323
 burns,united states,3000,43.5857,-119.0547
 bursa,turkey,2000000,40.1854,29.0671
@@ -283,6 +286,7 @@ copenhagen,denmark,1400000,55.6894,12.5690
 coban,guatemala,500000,15.4782,-90.3763
 cobo,guernsey,100,49.47886,-2.58934
 colon,panama,250000,9.3581,-79.8977
+cooma,australia,7000,-36.23579,149.12644
 copiapo,chile,150000,-27.3667,-70.3341
 cordoba,argentina,1000000,-31.4147,-64.1842
 cork,ireland,200000,51.8986,-8.4663
@@ -290,6 +294,7 @@ coro,venezuela,200000,11.4072,-69.6674
 corvallis,united states,65000,44.56436,-123.26180
 cotonou,benin,2000000,6.36913,2.42540
 coventry,england,400000,52.40823,-1.51045
+cowra,australia,10000,-33.83517,148.69257
 coyhaique,chile,50000,-45.5716,-72.0693
 craiova,romania,400000,44.31973,23.79639
 crawley,england,120000,51.11007,-0.17990
@@ -335,6 +340,7 @@ dededo,guam,140000,13.516862,144.839147
 dekalb,united states,60000,41.92955,-88.74996
 delhi,india,32000000,28.6157,77.2095
 deltona,united states,200000,28.90473,-81.22759
+denmark,australia,2500,-34.96042,117.35501
 denpasar,indonesia,2300000,-8.6513,115.2212
 denver,united states,2500000,39.73934,-104.98484
 derby,england,260000,52.9210,-1.4759
@@ -388,6 +394,8 @@ eldoret,kenya,500000,0.5217,35.2709
 elgin,scotland,25000,57.64940,-3.31512
 elkhart,united states,150000,41.68208,-85.97677
 elko,united states,20000,40.83297,-115.76328
+elliott,australia,300,-17.55577,133.54345
+emerald,australia,15000,-23.52634,148.16171
 encamp,andorra,8000,42.53683,1.58306
 enid,united states,50000,36.3963,-97.8789
 enniskillen,northern ireland,15000,54.34520,-7.63893
@@ -398,10 +406,12 @@ erie,united states,200000,42.12923,-80.08484
 esbjerg,denmark,70000,55.4689,8.4492
 esperance,australia,10000,-33.85834,121.89322
 esteli,nicaragua,110000,13.0964,-86.3560
+eucla,australia,50,-31.67684,128.88649
 eugene,united states,200000,44.05049,-123.09503
 eureka,united states,50000,40.79022,-124.16782
 evansville,united states,200000,37.97025,-87.57133
 exeter,england,130000,50.72554,-3.52661
+exmouth,australia,3000,-21.93258,114.12580
 fairbanks,united states,100000,64.8370,-147.7194
 faisalabad,pakistan,3000000,31.4238,73.0917
 faiyum,egypt,500000,29.3145,30.8386
@@ -452,6 +462,7 @@ geelong,australia,300000,-38.14934,144.35966
 geneva,switzerland,1000000,46.20196,6.14659
 genoa,italy,700000,44.4082,8.9343
 georgetown,guyana,120000,6.81416,-58.16257
+geraldton,australia,40000,-28.77029,114.61401
 ghanzi,botswana,20000,-21.69691,21.64598
 ghardaia,algeria,200000,32.48627,3.67699
 ghazni,afghanistan,200000,33.54547,68.41307
@@ -473,6 +484,7 @@ gomel,belarus,500000,52.4265,31.0103
 gonaives,haiti,100000,19.4477,-72.6883
 gorey,jersey,100,49.19895,-2.03178
 gothenburg,sweden,1100000,57.7087,11.9669
+goulburn,australia,25000,-34.75258,149.71979
 gouyave,grenada,3000,12.16693,-61.72952
 grafton,australia,20000,-29.6915,152.9331
 grahamstown,south africa,70000,-33.30765,26.52718
@@ -480,6 +492,7 @@ granada,spain,500000,37.17434,-3.59957
 graz,austria,300000,47.0726,15.4379
 greenock,scotland,65000,55.94800,-4.75674
 grenville,grenada,2000,12.12371,-61.62266
+griffith,australia,20000,-34.28711,146.05508
 groningen,netherlands,300000,53.21976,6.56759
 grozny,chechnya,300000,43.3191,45.6935
 guadalajara,mexico,5000000,20.67286,-103.33895
@@ -489,6 +502,7 @@ guilin,china,1400000,25.2823,110.2883
 guiyang,china,4000000,26.65106,106.62437
 gujranwala,pakistan,2000000,32.1557,74.1920
 gulu,uganda,150000,2.77168,32.30410
+gundagai,australia,2000,-35.06149,148.10605
 gustavia,saint barthelemy,2000,17.89592,-62.85096
 guwahati,india,1300000,26.1847,91.7523
 gwalior,india,1000000,26.2075,78.1540
@@ -546,6 +560,7 @@ holyhead,wales,15000,53.31042,-4.63331
 homs,syria,800000,34.73396,36.71631
 honiara,solomon islands,150000,-9.43056,159.95484
 honolulu,united states,1000000,21.30465,-157.85585
+horsham,australia,20000,-36.71498,142.20180
 houma,united states,150000,29.59533,-90.71926
 houston,united states,6000000,29.75998,-95.36819
 huaian,china,2000000,33.6006,119.0204
@@ -566,6 +581,7 @@ idlib,syria,100000,35.93055,36.63511
 ilorin,nigeria,1000000,8.4963,4.5487
 indianapolis,united states,1700000,39.76811,-86.15839
 indore,india,2500000,22.7201,75.8695
+innamincka,australia,20,-27.74563,140.73748
 innsbruck,austria,100000,47.2656,11.3939
 inverness,scotland,65000,57.4795,-4.2222
 ioannina,greece,60000,39.6641,20.8534
@@ -599,6 +615,7 @@ jiaxing,china,1200000,30.7507,120.7507
 jieyang,china,1200000,23.5558,116.3699
 jilin,china,1500000,43.8571,126.5735
 jinan,china,6000000,36.6529,117.1139
+jindabyne,australia,3000,-36.41726,148.61979
 jinhua,china,1000000,29.1120,119.6507
 jinja,uganda,300000,0.43541,33.20566
 jinzhou,china,1000000,41.1095,121.1195
@@ -699,6 +716,7 @@ kuching,malaysia,700000,1.55927,110.34462
 kulob,tajikistan,200000,37.90833,69.77374
 kumasi,ghana,3500000,6.6989,-1.6236
 kunming,china,6000000,25.047,102.708
+kununurra,australia,5000,-15.77313,128.73882
 kutaisi,georgia,100000,42.27166,42.70523
 kuwait,kuwait,3000000,29.3801,47.9759
 kwekwe,zimbabwe,120000,-18.9276,29.8145
@@ -757,6 +775,8 @@ linyi,china,3000000,35.1035,118.3506
 linz,austria,200000,48.3059,14.2870
 lira,uganda,100000,2.2457,32.8962
 lisbon,portugal,3000000,38.70808,-9.13702
+lismore,australia,30000,-28.80772,153.27910
+lithgow,australia,10000,-33.48167,150.15624
 liverpool,england,1000000,53.4078,-2.9917
 livingstone,zambia,200000,-17.8531,25.8625
 ljubljana,slovenia,550000,46.0498,14.5074
@@ -803,6 +823,7 @@ madrid,spain,7000000,40.41667,-3.70377
 madurai,india,1000000,9.9257,78.1131
 mafraq,jordan,120000,32.3415,36.2075
 mahajanga,madagascar,200000,-15.7182,46.3173
+maitland,australia,90000,-32.73179,151.55112
 majuro,marshall islands,20000,7.09095,171.38157
 makassar,indonesia,2500000,-5.13412,119.41212
 makeni,sierra leone,130000,8.8883,-12.0427
@@ -811,6 +832,7 @@ malabo,equatorial guinea,300000,3.7419,8.7741
 maldonado,uruguay,130000,-34.90856,-54.95833
 male,maldives,200000,4.17809,73.51047
 maliana,timor-leste,15000,-8.99085,125.20337
+mallacoota,australia,1000,-37.56033,149.75696
 malmo,sweden,700000,55.6050,13.0023
 manama,bahrain,500000,26.2223,50.5831
 manbij,syria,100000,36.52681,37.95605
@@ -896,6 +918,7 @@ mostar,bosnia and herzegovina,100000,43.34356,17.80755
 mosul,iraq,1400000,36.34175,43.12941
 moundou,chad,100000,8.5656,16.0751
 muar,malaysia,300000,2.04242,102.56578
+mudgee,australia,12000,-32.59820,149.58890
 mukalla,yemen,600000,14.5432,49.1233
 multan,pakistan,2000000,30.1988,71.4736
 mumbai,india,24000000,19.0795,72.8788
@@ -905,6 +928,7 @@ murcia,spain,700000,37.9937,-1.1288
 murfreesboro,united states,200000,35.8461,-86.3910
 muscat,oman,1700000,23.5884,58.3838
 muskegon,united states,200000,43.23404,-86.24851
+muswellbrook,australia,15000,-32.26511,150.88855
 mutare,zimbabwe,250000,-18.9743,32.6706
 mwanza,tanzania,1300000,-2.5193,32.9023
 mykolaiv,ukraine,500000,46.9749,31.9936
@@ -929,6 +953,7 @@ nanyang,china,1500000,33.0016,112.5295
 napa,united states,100000,38.29674,-122.28573
 napier,new zealand,60000,-39.4907,176.9173
 naples,italy,3500000,40.83625,14.24867
+narrabri,australia,5000,-30.32981,149.78142
 narva,estonia,60000,59.3763,28.1926
 nashik,india,1500000,20.0113,73.7917
 nassau,bahamas,200000,25.07808,-77.33834
@@ -968,6 +993,7 @@ nuremberg,germany,3000000,49.45401,11.07731
 nuuk,greenland,20000,64.17660,-51.73582
 nyala,sudan,1100000,12.0499,24.8799
 nyiregyhaza,hungary,110000,47.9558,21.7172
+nyngan,australia,2000,-31.56300,147.19663
 nzerekore,guinea,200000,7.75887,-8.81584
 oaxaca,mexico,700000,17.0599,-96.7264
 ocala,united states,200000,29.18697,-82.13988
@@ -979,9 +1005,12 @@ olomouc,czech republic,100000,49.5944,17.2503
 olympia,united states,200000,47.04492,-122.89547
 omagh,northern ireland,20000,54.59907,-7.30230
 omaha,united states,800000,41.25865,-95.93811
+omeo,australia,400,-37.10046,147.59231
 omsk,russia,1100000,54.9917,73.3712
 onitsha,nigeria,8000000,6.1462,6.8026
+oodnadatta,australia,100,-27.54833,135.44829
 oranjestad,aruba,30000,12.52017,-70.03707
+orbost,australia,2500,-37.70389,148.45568
 orebro,sweden,130000,59.2745,15.2154
 orlando,united states,1800000,28.54178,-81.37848
 oruro,bolivia,200000,-17.96983,-67.11462
@@ -1014,6 +1043,7 @@ papeete,french polynesia,120000,-17.53746,-149.56590
 paphos,cyprus,60000,34.77430,32.42332
 paramaribo,suriname,240000,5.8242,-55.1699
 paris,france,10000000,48.85358,2.34833
+parkes,australia,10000,-33.13689,148.17531
 pascagoula,united states,50000,30.36462,-88.55856
 patna,india,2500000,25.6096,85.1228
 patras,greece,250000,38.2455,21.7358
@@ -1268,6 +1298,7 @@ telford,england,150000,52.67789,-2.45150
 temecula,united states,500000,33.49456,-117.14730
 temple,united states,100000,31.0981,-97.3430
 temuco,chile,300000,-38.7357,-72.5911
+tenterfield,australia,4000,-29.04848,152.01765
 tetovo,north macedonia,60000,42.00674,20.97264
 texarkana,united states,80000,33.42539,-94.04348
 thakhek,laos,25000,17.39481,104.80618
@@ -1386,6 +1417,7 @@ waterford,ireland,60000,52.26107,-7.11227
 watsonville,united states,70000,36.90917,-121.75289
 wausau,united states,80000,44.9598,-89.6275
 weifang,china,2000000,36.705,119.155
+weipa,australia,4000,-12.63845,141.87109
 wellington,new zealand,200000,-41.28858,174.77617
 wenatchee,united states,80000,47.42211,-120.31128
 weno,micronesia,13000,7.446100,151.841585
@@ -1395,6 +1427,7 @@ weymouth,england,50000,50.60944,-2.45476
 wheeland,turks and caicos islands,3000,21.82011,-72.28695
 whitehorse,canada,25000,60.7213,-135.0553
 wichita,united states,500000,37.69217,-97.33681
+wilcannia,australia,750,-31.55917,143.37454
 willemstad,curacao,130000,12.11017,-68.93711
 wilmington,united states,250000,34.22578,-77.94525
 winchester,england,120000,51.06106,-1.31304
@@ -1402,6 +1435,7 @@ windhoek,namibia,500000,-22.5777,17.0762
 winnipeg,canada,800000,49.8949,-97.1404
 wollongong,australia,300000,-34.42436,150.89370
 wonsan,north korea,400000,39.17259,127.42836
+woomera,australia,150,-31.19997,136.82532
 worcester,england,100000,52.19111,-2.22053
 workington,england,25000,54.6412,-3.5472
 wrexham,wales,50000,53.0468,-2.9931
@@ -1425,6 +1459,7 @@ yangon,myanmar,5000000,16.7976,96.1599
 yantai,china,2000000,37.4601,121.4429
 yaounde,cameroon,1000000,3.86909,11.52131
 yaren,nauru,1000,-0.54696,166.91642
+yass,australia,7000,-34.84195,148.91101
 yellowknife,canada,20000,62.4535,-114.3769
 yeovil,england,50000,50.94207,-2.63157
 yerevan,armenia,1000000,40.1782,44.5128
