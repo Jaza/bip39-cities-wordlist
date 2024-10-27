@@ -3,6 +3,8 @@
 A [BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki) compliant
 wordlist consisting of 2,048 cities or city-like localities from around the world.
 
+See the [BIP39 Cities Wordlist as a map](https://jaza.github.io/bip39-cities-wordlist/).
+
 ## Mnemonic sentences
 
 Example mnemonic sentences generated using this list:
@@ -58,3 +60,36 @@ First and foremost, it's more fun than plain dictionary words! Also:
 - Proper nouns might be more appropriate than dictionary words in certain applications
 - Geographical names might make sense in certain applications
 - A mix of words from multiple languages might make sense in certain applications
+
+## About the map
+
+Built as a static site, using [Leaflet](https://leafletjs.com/) as the map engine,
+[OpenStreetMap](https://www.openstreetmap.org/) for map data, and
+[Mapbox](https://www.mapbox.com/) for map tiles. City map markers are sourced from the
+`csv/cities.csv` file in this repo.
+
+## GitHub Pages
+
+The live site is deployed on [GitHub Pages](https://pages.github.com/).
+
+## Previewing locally
+
+By default, the CSV file is fetched from GitHub. But it can be made to fetch locally
+using the `csv_url_prefix` URL param.
+
+Run a simple local webserver such as [Serve](https://github.com/vercel/serve), e.g. in
+one shell, run:
+
+    cd /path/to/bip39-cities-wordlist/docs
+    npx serve -l 8000
+
+And in another shell, run:
+
+    cd /path/to/bip39-cities-wordlist/csv
+    npx serve -l 9000 --cors
+
+Then, in a browser, access this URL:
+
+    http://localhost:8000/?csv_url_prefix=http://localhost:9000/
+
+You should see the map rendered.
