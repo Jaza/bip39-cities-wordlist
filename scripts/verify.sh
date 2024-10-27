@@ -59,7 +59,16 @@ if [[ -n "${SORTING_REPORT_CONTENTS}" ]]; then
   exit 1
 fi
 
-# awk -F "\"*,\"*" '{print $1}' $CSV_FILEPATH
+TXT_FILENAME="cities.txt"
+TXT_FILEPATH=$(realpath "${SCRIPT_DIR}/../${TXT_FILENAME}")
+
+TXT_DIFF_REPORT_CONTENTS=$(diff -u $TEMP_SORTED_CITIES_FILEPATH $TXT_FILEPATH || :)
+
+if [[ -n "${TXT_DIFF_REPORT_CONTENTS}" ]]; then
+  >&2 echo "${CSV_FILENAME} differs from ${TXT_FILENAME}, diff report is as follows:"
+  >&2 echo "${TXT_DIFF_REPORT_CONTENTS}"
+  exit 1
+fi
 
 echo "Verified!"
 
