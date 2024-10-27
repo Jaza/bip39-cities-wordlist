@@ -19,6 +19,7 @@ ahmedabad
 ahvaz
 ajaccio
 akron
+aksu
 aktau
 aktobe
 akureyri
@@ -115,6 +116,7 @@ bangkok
 banjul
 baoding
 baoji
+baoshan
 baotou
 barahona
 barcelona
@@ -359,6 +361,7 @@ decatur
 dededo
 dekalb
 delhi
+delingha
 deltona
 deniliquin
 denmark
@@ -689,6 +692,7 @@ kamloops
 kampala
 kananga
 kandahar
+kangding
 kankan
 kano
 kanpur
@@ -898,6 +902,7 @@ manama
 manbij
 manchester
 mandeville
+mangnai
 manila
 mankato
 mannheim
@@ -1005,6 +1010,7 @@ nadi
 nadym
 nagoya
 nagpur
+nagqu
 nain
 nairobi
 nakuru
@@ -1038,6 +1044,7 @@ newman
 newport
 newry
 newtown
+ngawa
 nhulunbuy
 niamey
 nice
@@ -1186,6 +1193,7 @@ providence
 pskov
 pucallpa
 puebla
+puer
 pula
 pune
 puno
@@ -1193,6 +1201,7 @@ putian
 pyatigorsk
 pyongyang
 qamishli
+qiemo
 qingdao
 qinhuangdao
 qiqihar
@@ -1297,6 +1306,7 @@ shiraz
 shizuoka
 shoyna
 shreveport
+shuanghu
 shymkent
 siauliai
 sidon
@@ -1605,6 +1615,7 @@ yueyang
 yulara
 yulee
 yuma
+yushu
 zacatecas
 zadar
 zagreb
