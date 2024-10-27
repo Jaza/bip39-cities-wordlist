@@ -402,6 +402,7 @@ dumfries
 dundee
 dunedin
 dunfermline
+dunhuang
 durango
 durban
 durness
@@ -490,6 +491,7 @@ geneva
 genoa
 georgetown
 geraldton
+gerze
 ghanzi
 ghardaia
 ghazni
@@ -596,6 +598,7 @@ homs
 honiara
 honolulu
 horsham
+hotan
 houma
 houston
 huaian
@@ -1060,6 +1063,7 @@ nukualofa
 nuremberg
 nuuk
 nyala
+nyingchi
 nyiregyhaza
 nyngan
 nzerekore
@@ -1286,7 +1290,9 @@ sheffield
 shenzhen
 shepparton
 sherman
+shigatse
 shijiazhuang
+shiquanhe
 shiraz
 shizuoka
 shoyna
