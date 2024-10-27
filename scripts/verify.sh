@@ -43,11 +43,11 @@ if [[ -n "${DUPLICATES_REPORT_CONTENTS}" ]]; then
   exit 1
 fi
 
-TEMP_DIR="${SCRIPT_DIR}/../temp"
-TEMP_UNSORTED_CITIES_FILEPATH=$(realpath "${TEMP_DIR}/unsortedcities.txt")
-TEMP_SORTED_CITIES_FILEPATH=$(realpath "${TEMP_DIR}/sortedcities.txt")
-
+TEMP_DIR=$(realpath "${SCRIPT_DIR}/../temp")
 mkdir -p $TEMP_DIR
+TEMP_UNSORTED_CITIES_FILEPATH="${TEMP_DIR}/unsortedcities.txt"
+TEMP_SORTED_CITIES_FILEPATH="${TEMP_DIR}/sortedcities.txt"
+
 cat $CSV_FILEPATH | tail -n +2 | awk -F "\"*,\"*" '{print $1}' > $TEMP_UNSORTED_CITIES_FILEPATH
 cat $CSV_FILEPATH | tail -n +2 | awk -F "\"*,\"*" '{print $1}' | sort > $TEMP_SORTED_CITIES_FILEPATH
 
