@@ -761,10 +761,10 @@ kralendijk
 krasnoyarsk
 krusevac
 kuantan
-kunduz
 kuching
 kulob
 kumasi
+kunduz
 kunming
 kununurra
 kurgan
@@ -845,8 +845,8 @@ lompoc
 london
 longyearbyen
 lorain
-loukhi
 louisville
+loukhi
 luanda
 lubango
 lubbock
@@ -1340,12 +1340,12 @@ subotica
 sucre
 sudbury
 suez
+sukhumi
 summerville
 sumter
 suqian
 surabaya
 surgut
-sukhumi
 suva
 suzhou
 swakopmund
