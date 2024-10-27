@@ -10,10 +10,10 @@ echo "Verifying ${CSV_FILENAME}"
 NUM_LINES=$(wc -l < $CSV_FILEPATH)
 EXPECTED_NUM_LINES=2049
 
-# if [[ $NUM_LINES != $EXPECTED_NUM_LINES ]]; then
-#   >&2 echo "${CSV_FILENAME} contains ${NUM_LINES} lines but should be ${EXPECTED_NUM_LINES} lines"
-#   exit 1
-# fi
+if [[ $NUM_LINES != $EXPECTED_NUM_LINES ]]; then
+  >&2 echo "${CSV_FILENAME} contains ${NUM_LINES} lines but should be ${EXPECTED_NUM_LINES} lines"
+  exit 1
+fi
 
 FIRST_LINE_CONTENTS=$(head -n 1 $CSV_FILEPATH)
 EXPECTED_FIRST_LINE_CONTENTS="name,region,population,lat,lon"
