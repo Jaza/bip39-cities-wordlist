@@ -13,6 +13,7 @@ adana
 adelaide
 aden
 agadez
+agartala
 agra
 aguadilla
 ahmedabad
@@ -143,6 +144,7 @@ beersheba
 bega
 beijing
 beirut
+beitun
 bejaia
 belem
 belfast
@@ -281,6 +283,7 @@ chipata
 chisinau
 chittagong
 chlef
+choibalsan
 chokurdakh
 chongqing
 christchurch
@@ -333,6 +336,7 @@ daegu
 daejeon
 dakar
 dakhla
+dalanzadgad
 dalian
 dallas
 daloa
@@ -613,6 +617,7 @@ huddersfield
 huelva
 huizhou
 hull
+hulunbuir
 huntsville
 huzhou
 hyderabad
@@ -621,6 +626,7 @@ ibadan
 ibague
 idlib
 ilorin
+imphal
 indianapolis
 indore
 innamincka
@@ -637,6 +643,7 @@ irkutsk
 isfahan
 islamabad
 istanbul
+itanagar
 ithaca
 ivanhoe
 izhevsk
@@ -663,6 +670,7 @@ jindabyne
 jinhua
 jinja
 jinzhou
+jiuquan
 jodhpur
 johannesburg
 jonesboro
@@ -1320,6 +1328,7 @@ singapore
 sinuiju
 sirte
 sitka
+sittwe
 skhoder
 skikda
 skopje
@@ -1378,6 +1387,7 @@ szczecin
 szeged
 tabora
 tabriz
+tacheng
 tacna
 taganrog
 tahoua
@@ -1388,6 +1398,7 @@ taipei
 taiyuan
 taiz
 talca
+taldykorgan
 tallinn
 taloqan
 tamale
@@ -1434,6 +1445,7 @@ tiksi
 timaru
 timisoara
 tindouf
+tinsukia
 tirana
 tlemcen
 toamasina
