@@ -34,6 +34,7 @@ allentown
 almaty
 almeria
 alofi
+altai
 altoona
 alytus
 amarillo
@@ -729,6 +730,7 @@ khartoum
 khatanga
 kherson
 khost
+khovd
 khujand
 khulna
 kiffa
@@ -1257,6 +1259,7 @@ sacramento
 saginaw
 saguenay
 saida
+sainshand
 saipan
 salalah
 salem
