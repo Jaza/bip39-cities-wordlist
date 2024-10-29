@@ -250,6 +250,7 @@ cancun
 canterbury
 caracas
 cardiff
+carhue
 caribou
 carlisle
 carnarvon
@@ -258,6 +259,7 @@ casablanca
 casper
 castries
 catania
+catriel
 cayenne
 cebu
 ceduna
@@ -440,6 +442,7 @@ erdenet
 erie
 esbjerg
 esperance
+esquel
 esteli
 eucla
 eugene
@@ -656,6 +659,7 @@ jakarta
 jalalabad
 jamestown
 janesville
+jaramillo
 jayapura
 jeddah
 jelgava
@@ -677,6 +681,7 @@ jonesboro
 jonkoping
 joplin
 juba
+jujuy
 juneau
 jurmala
 jutiapa
@@ -1043,6 +1048,7 @@ nassau
 navan
 naypyidaw
 ndola
+necochea
 nelson
 neryungri
 netanya
@@ -1091,6 +1097,7 @@ odesa
 ogden
 okayama
 okhotsk
+olavarria
 olomouc
 olympia
 omagh
@@ -1146,6 +1153,7 @@ pavlodar
 paysandu
 pecs
 peel
+pehuajo
 peja
 pembroke
 penonome
@@ -1188,7 +1196,9 @@ poole
 popondetta
 porlamar
 porto
+porvenir
 posadas
+potosi
 poughkeepsie
 poznan
 prague
@@ -1218,6 +1228,7 @@ qiqihar
 quanzhou
 quebec
 queenstown
+quellon
 queretaro
 quesnel
 quetta
@@ -1235,6 +1246,7 @@ raqqa
 rayong
 reading
 recife
+reconquista
 redding
 regina
 reims
@@ -1249,6 +1261,7 @@ rivera
 riyadh
 rizhao
 roanoke
+robore
 rochester
 rockhampton
 rogachevo
@@ -1259,6 +1272,7 @@ roseau
 rotorua
 rotterdam
 ruhengeri
+rurrenabaque
 rustavi
 ryazan
 rybinsk
@@ -1276,6 +1290,7 @@ salta
 salvador
 salzburg
 samarkand
+sampacho
 samsun
 sanaa
 sanliurfa
@@ -1445,6 +1460,7 @@ tiksi
 timaru
 timisoara
 tindouf
+tinogasta
 tinsukia
 tirana
 tlemcen
@@ -1521,6 +1537,7 @@ usulutan
 utica
 utqiagvik
 utrecht
+uyuni
 vacaville
 vadodara
 vaduz
@@ -1637,6 +1654,7 @@ zagreb
 zahle
 zanzibar
 zaozhuang
+zapala
 zaporizhzhia
 zaragoza
 zarqa
