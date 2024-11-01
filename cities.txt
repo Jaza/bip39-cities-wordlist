@@ -61,6 +61,7 @@ anyang
 apia
 appleton
 aqaba
+aracaju
 araguaina
 araracuara
 arawa
@@ -253,6 +254,7 @@ camiri
 camooweal
 canberra
 cancun
+canoas
 canterbury
 caracas
 cardiff
@@ -274,6 +276,7 @@ chaguanas
 champaign
 changuinola
 chaozhou
+chapeco
 charleroi
 chattanooga
 cheboksary
@@ -316,6 +319,7 @@ comayagua
 conakry
 concepcion
 constanta
+contagem
 conway
 cooktown
 cooma
@@ -332,6 +336,7 @@ cowra
 coyhaique
 craiova
 crawley
+criciuma
 cucuta
 cuenca
 cuiaba
@@ -391,6 +396,7 @@ dhamar
 dhanbad
 dijon
 dili
+divinopolis
 diyarbakir
 djelfa
 djibouti
@@ -455,6 +461,7 @@ esquel
 esteli
 eucla
 eugene
+eunapolis
 eureka
 evansville
 evensk
@@ -672,6 +679,7 @@ jaipur
 jakarta
 jalalabad
 jamestown
+janauba
 janesville
 jaramillo
 jayapura
@@ -691,9 +699,11 @@ jinzhou
 jiuquan
 jodhpur
 johannesburg
+joinville
 jonesboro
 jonkoping
 joplin
+juazeiro
 juba
 jujuy
 juneau
@@ -1063,6 +1073,7 @@ narrabri
 narva
 nashik
 nassau
+natal
 navan
 naypyidaw
 ndola
@@ -1113,6 +1124,7 @@ ocala
 odense
 odesa
 ogden
+oiapoque
 okayama
 okhotsk
 olavarria
@@ -1167,6 +1179,7 @@ parnaiba
 pascagoula
 pasto
 patna
+patos
 patras
 pattaya
 pavlodar
@@ -1175,6 +1188,7 @@ pecs
 peel
 pehuajo
 peja
+pelotas
 pembroke
 penonome
 penrith
@@ -1553,6 +1567,7 @@ unalaska
 upington
 uppsala
 urmia
+uruguaiana
 urumqi
 ushuaia
 ussuriysk
