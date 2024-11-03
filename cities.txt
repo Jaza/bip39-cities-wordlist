@@ -29,6 +29,7 @@ albacete
 albury
 aldama
 aleppo
+alesund
 alexandria
 algiers
 alicante
@@ -189,6 +190,7 @@ blenheim
 bloemfontein
 bloomington
 bluefields
+bodo
 bogota
 boise
 bokhtar
@@ -595,7 +597,7 @@ hama
 hamburg
 hamhung
 hamilton
-hammond
+hammerfest
 handan
 hangzhou
 hanoi
@@ -662,6 +664,7 @@ ibarra
 idlib
 ilorin
 imphal
+inari
 indianapolis
 indore
 inirida
@@ -712,6 +715,7 @@ jinja
 jinzhou
 jiuquan
 jodhpur
+joensuu
 johannesburg
 joinville
 jonesboro
@@ -795,6 +799,7 @@ kinshasa
 kirensk
 kirkuk
 kirov
+kiruna
 kisangani
 kismayo
 kisumu
@@ -804,6 +809,7 @@ knoxville
 kocaeli
 kodiak
 koidu
+kokkola
 kokopo
 kokshetau
 kolkata
@@ -922,6 +928,7 @@ ludhiana
 luena
 luganville
 luhansk
+lulea
 luoyang
 lusaka
 luton
@@ -1174,6 +1181,7 @@ osijek
 oskemen
 oslo
 osorno
+ostersund
 ostrava
 otavalo
 otjiwarongo
@@ -1336,6 +1344,7 @@ rosario
 roseau
 rotorua
 rotterdam
+rovaniemi
 ruhengeri
 rurrenabaque
 rustavi
@@ -1455,6 +1464,7 @@ suez
 sukhumi
 summerville
 sumter
+sundsvall
 suqian
 surabaya
 surgut
@@ -1566,6 +1576,7 @@ trelew
 trenton
 trincomalee
 tripoli
+tromso
 trondheim
 trujillo
 truro
@@ -1618,6 +1629,7 @@ utqiagvik
 utrecht
 uvalde
 uyuni
+vaasa
 vacaville
 vadodara
 vaduz
@@ -1654,6 +1666,7 @@ volgograd
 volos
 vorkuta
 voronezh
+vyborg
 waco
 waiouru
 waldorf
