@@ -168,6 +168,7 @@ bern
 bharatpur
 bhopal
 bialystok
+bielefeld
 bilbao
 billings
 biloxi
@@ -442,6 +443,7 @@ durban
 durness
 durres
 dushanbe
+dusseldorf
 dzerzhinsk
 echuca
 edinburgh
@@ -466,6 +468,7 @@ ensenada
 enugu
 erbil
 erdenet
+erfurt
 erie
 esbjerg
 esmeraldas
@@ -785,6 +788,7 @@ khandyga
 khartoum
 khatanga
 kherson
+khmelnytskyi
 khost
 khovd
 khujand
@@ -826,6 +830,7 @@ kragujevac
 krakow
 kralendijk
 krasnoyarsk
+kremenchuk
 krusevac
 kuantan
 kuching
@@ -932,6 +937,7 @@ lulea
 luoyang
 lusaka
 luton
+lutsk
 luxembourg
 luxor
 luzhou
@@ -996,6 +1002,7 @@ mawlamyine
 mayaguez
 maykop
 mazatenango
+mazyr
 mbabane
 mbale
 mbarara
@@ -1009,6 +1016,7 @@ medina
 meerut
 mekelle
 melbourne
+melitopol
 memphis
 mendoza
 menindee
@@ -1159,6 +1167,7 @@ okayama
 okhotsk
 olavarria
 olomouc
+olsztyn
 olympia
 omagh
 omaha
@@ -1330,6 +1339,7 @@ riga
 rijeka
 riobamba
 rivera
+rivne
 riyadh
 rizhao
 roanoke
@@ -1351,6 +1361,7 @@ rustavi
 ryazan
 rybinsk
 rybnik
+rzeszow
 sabha
 sabinas
 sacramento
@@ -1464,6 +1475,7 @@ suez
 sukhumi
 summerville
 sumter
+sumy
 sundsvall
 suqian
 surabaya
@@ -1526,6 +1538,7 @@ tena
 tenterfield
 tepic
 teresopolis
+ternopil
 tetovo
 texarkana
 thakhek
@@ -1612,6 +1625,7 @@ ulladulla
 ulsan
 ulverstone
 ulyanovsk
+uman
 umea
 umtata
 unalaska
@@ -1760,6 +1774,7 @@ zhaoqing
 zhengzhou
 zhezkazgan
 zhongshan
+zhytomyr
 zibo
 ziguinchor
 zihuatanejo
