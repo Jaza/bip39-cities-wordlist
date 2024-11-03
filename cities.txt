@@ -27,6 +27,7 @@ akureyri
 alamogordo
 albacete
 albury
+aldama
 aleppo
 alexandria
 algiers
@@ -187,12 +188,14 @@ blantyre
 blenheim
 bloemfontein
 bloomington
+bluefields
 bogota
 boise
 bokhtar
 bologna
 bonao
 bordeaux
+bosaso
 boston
 bouake
 boulder
@@ -239,6 +242,7 @@ butte
 bydgoszcz
 cabinda
 cacoal
+cadereyta
 cadiz
 cagliari
 caguas
@@ -252,6 +256,7 @@ camaguey
 cambridge
 camiri
 camooweal
+campeche
 canberra
 cancun
 canoas
@@ -283,6 +288,7 @@ cheboksary
 chelyabinsk
 chennai
 chernihiv
+chetumal
 cheyenne
 chicago
 chifeng
@@ -398,6 +404,7 @@ dijon
 dili
 divinopolis
 diyarbakir
+djanet
 djelfa
 djibouti
 dnipro
@@ -438,6 +445,7 @@ echuca
 edinburgh
 edmonton
 edwardsville
+egilsstadir
 eindhoven
 elbasan
 eldoret
@@ -446,16 +454,19 @@ elista
 elkhart
 elko
 elliott
+elorza
 emerald
 encamp
 engels
 enid
 enniskillen
+ensenada
 enugu
 erbil
 erdenet
 erie
 esbjerg
+esmeraldas
 esperance
 esquel
 esteli
@@ -611,6 +622,7 @@ hemet
 hengyang
 herat
 hereford
+hermosillo
 heze
 hickory
 higuey
@@ -618,6 +630,7 @@ hilo
 hinesville
 hiroshima
 hobart
+hofn
 hohhot
 holguin
 holland
@@ -645,6 +658,7 @@ hyderabad
 iasi
 ibadan
 ibague
+ibarra
 idlib
 ilorin
 imphal
@@ -703,6 +717,7 @@ joinville
 jonesboro
 jonkoping
 joplin
+juarez
 juazeiro
 juba
 jujuy
@@ -888,6 +903,7 @@ lochmaddy
 lodi
 lodz
 logan
+loja
 lome
 lompoc
 london
@@ -903,6 +919,7 @@ lubumbashi
 lucerne
 lucknow
 ludhiana
+luena
 luganville
 luhansk
 luoyang
@@ -950,11 +967,13 @@ mankato
 mannheim
 mansoura
 manta
+manzanillo
 maoming
 maputo
 maracaibo
 marfa
 mariehamn
+maroa
 marquette
 marrakesh
 marseille
@@ -962,6 +981,7 @@ mary
 masaka
 maseru
 mashhad
+matehuala
 matsuyama
 maturin
 maun
@@ -1032,6 +1052,7 @@ moundou
 muar
 mudgee
 mukalla
+mulege
 multan
 mumbai
 muncie
@@ -1075,6 +1096,7 @@ nashik
 nassau
 natal
 navan
+navojoa
 naypyidaw
 ndola
 necochea
@@ -1100,6 +1122,7 @@ ningbo
 nizhnekamsk
 nizwa
 nkayi
+nogales
 nome
 norfolk
 norilsk
@@ -1152,6 +1175,7 @@ oskemen
 oslo
 osorno
 ostrava
+otavalo
 otjiwarongo
 ottawa
 ouagadougou
@@ -1163,6 +1187,7 @@ owensboro
 oxford
 oxnard
 oyem
+pachuca
 paducah
 pakse
 palembang
@@ -1170,6 +1195,7 @@ palikir
 palmdale
 pamplona
 panevezys
+papaichton
 papeete
 paphos
 paramaribo
@@ -1215,6 +1241,7 @@ pinehurst
 pingdingshan
 pinsk
 pisa
+pisco
 pittsburgh
 piura
 pleiku
@@ -1267,6 +1294,7 @@ quellon
 queretaro
 quesnel
 quetta
+quevedo
 quito
 rabat
 racine
@@ -1292,6 +1320,7 @@ reynosa
 richmond
 riga
 rijeka
+riobamba
 rivera
 riyadh
 rizhao
@@ -1302,6 +1331,7 @@ rockhampton
 rogachevo
 roma
 rome
+rorainopolis
 rosario
 roseau
 rotorua
@@ -1312,6 +1342,8 @@ rustavi
 ryazan
 rybinsk
 rybnik
+sabha
+sabinas
 sacramento
 saginaw
 saguenay
@@ -1339,6 +1371,7 @@ scarborough
 scranton
 seaside
 seattle
+sedalia
 segou
 sejong
 selfoss
@@ -1479,7 +1512,9 @@ temecula
 temirtau
 temple
 temuco
+tena
 tenterfield
+tepic
 teresopolis
 tetovo
 texarkana
@@ -1496,6 +1531,7 @@ tifariti
 tijuana
 tiksi
 timaru
+timbuktu
 timisoara
 tindouf
 tinogasta
@@ -1505,11 +1541,13 @@ tlemcen
 toamasina
 tobermory
 tobruk
+tocoa
 tokyo
 toledo
 toluca
 tolyatti
 tomsk
+tonala
 tonopah
 toowoomba
 topeka
@@ -1539,6 +1577,7 @@ tuguegarao
 tula
 tulsa
 tulum
+tumeremo
 tunis
 tura
 turin
@@ -1547,6 +1586,7 @@ turlock
 turukhansk
 tuscaloosa
 tutong
+tuxpan
 tuzla
 tver
 tyler
@@ -1576,6 +1616,7 @@ usulutan
 utica
 utqiagvik
 utrecht
+uvalde
 uyuni
 vacaville
 vadodara
@@ -1622,6 +1663,7 @@ wanyjok
 warrnambool
 warsaw
 warwick
+waspam
 waterford
 watsonville
 wausau
@@ -1707,6 +1749,7 @@ zhezkazgan
 zhongshan
 zibo
 ziguinchor
+zihuatanejo
 zilina
 zinder
 zrenjanin
