@@ -15,6 +15,7 @@ aden
 agadez
 agartala
 agra
+agrigento
 aguadilla
 ahmedabad
 ahvaz
@@ -47,6 +48,7 @@ amritsar
 amsterdam
 anadyr
 anchorage
+ancona
 ancud
 anderson
 andijan
@@ -186,6 +188,7 @@ bissau
 bitola
 biysk
 blacksburg
+blagoevgrad
 blantyre
 blenheim
 bloemfontein
@@ -196,6 +199,7 @@ bogota
 boise
 bokhtar
 bologna
+bolzano
 bonao
 bordeaux
 bosaso
@@ -216,6 +220,7 @@ bremen
 brescia
 bridgetown
 brighton
+brindisi
 brisbane
 brno
 broome
@@ -242,6 +247,7 @@ bursa
 busan
 butare
 butte
+buzau
 bydgoszcz
 cabinda
 cacoal
@@ -279,6 +285,7 @@ catriel
 cayenne
 cebu
 ceduna
+cefalu
 celje
 chaguanas
 champaign
@@ -339,6 +346,7 @@ cork
 coro
 corumba
 corvallis
+cosenza
 cotonou
 coventry
 cowra
@@ -463,6 +471,7 @@ emerald
 encamp
 engels
 enid
+enna
 enniskillen
 ensenada
 enugu
@@ -497,10 +506,12 @@ fergana
 fianarantsoa
 fier
 filadelfia
+fira
 fishguard
 flagstaff
 flint
 flores
+foggia
 fortaleza
 frankfurt
 frederiksted
@@ -518,6 +529,7 @@ gabu
 gadsden
 gainesville
 gairloch
+galati
 galle
 galveston
 galway
@@ -572,6 +584,7 @@ grenville
 greymouth
 griffith
 groningen
+grosseto
 grozny
 guadalajara
 guangzhou
@@ -610,6 +623,7 @@ hargeisa
 harlingen
 harrisburg
 hartford
+haskovo
 hastings
 hatay
 hattiesburg
@@ -664,7 +678,9 @@ iasi
 ibadan
 ibague
 ibarra
+ibiza
 idlib
+ierapetra
 ilorin
 imphal
 inari
@@ -743,7 +759,7 @@ kaifeng
 kaikoura
 kailua
 kairouan
-kalamazoo
+kalamata
 kalgoorlie
 kaliningrad
 kalmunai
@@ -761,12 +777,14 @@ kaohsiung
 kaolack
 karachi
 karlstad
+karpathos
 karratha
 kashgar
 kassala
 kathmandu
 katowice
 kaunas
+kavala
 kayseri
 kazan
 kearney
@@ -959,6 +977,7 @@ magadan
 magdalena
 magnitogorsk
 mahajanga
+mahon
 maitland
 majuro
 makassar
@@ -1024,6 +1043,7 @@ merca
 merida
 mersin
 mesquite
+messina
 mexicali
 miami
 middletown
@@ -1112,6 +1132,7 @@ nassau
 natal
 navan
 navojoa
+naxos
 naypyidaw
 ndola
 necochea
@@ -1207,11 +1228,13 @@ oyem
 pachuca
 paducah
 pakse
+palaiochora
 palembang
 palikir
-palmdale
+palmyra
 pamplona
 panevezys
+pantelleria
 papaichton
 papeete
 paphos
@@ -1241,6 +1264,7 @@ peoria
 perm
 perth
 perugia
+pescara
 peshawar
 petaluma
 peterborough
@@ -1262,6 +1286,7 @@ pisco
 pittsburgh
 piura
 pleiku
+pleven
 plovdiv
 plymouth
 pocatello
@@ -1317,6 +1342,7 @@ rabat
 racine
 radcliff
 rafah
+ragusa
 raipur
 rajkot
 raleigh
@@ -1334,6 +1360,7 @@ rennes
 reno
 reykjavik
 reynosa
+rhodes
 richmond
 riga
 rijeka
@@ -1357,6 +1384,7 @@ rotterdam
 rovaniemi
 ruhengeri
 rurrenabaque
+ruse
 rustavi
 ryazan
 rybinsk
@@ -1424,6 +1452,7 @@ shuanghu
 shymkent
 siauliai
 sidon
+sighisoara
 sikasso
 simferopol
 simpsonville
@@ -1438,6 +1467,7 @@ skikda
 skopje
 slidell
 sligo
+sliven
 slobozia
 smara
 smolensk
@@ -1469,6 +1499,7 @@ strasbourg
 stromness
 stuttgart
 subotica
+suceava
 sucre
 sudbury
 suez
@@ -1584,6 +1615,7 @@ townsville
 tracy
 tralee
 trang
+trapani
 traralgon
 trelew
 trenton
@@ -1618,6 +1650,7 @@ tyndrum
 tyre
 tyumen
 uberlandia
+udine
 uelen
 ukhta
 ulaanbaatar
@@ -1761,6 +1794,7 @@ zacatecas
 zadar
 zagreb
 zahle
+zakynthos
 zanzibar
 zaozhuang
 zapala
