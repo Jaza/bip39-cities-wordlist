@@ -42,6 +42,7 @@ altai
 altoona
 alytus
 amarillo
+ambon
 ames
 amman
 amritsar
@@ -115,7 +116,7 @@ bairnsdale
 bakersfield
 baku
 balakovo
-balikesir
+balikpapan
 balkh
 ballymena
 balti
@@ -174,6 +175,7 @@ bielefeld
 bilbao
 billings
 biloxi
+bima
 bimbo
 binghamton
 biratnagar
@@ -469,6 +471,7 @@ elliott
 elorza
 emerald
 encamp
+ende
 engels
 enid
 enna
@@ -530,6 +533,7 @@ gadsden
 gainesville
 gairloch
 galati
+galela
 galle
 galveston
 galway
@@ -572,6 +576,7 @@ gonaives
 goolwa
 goondiwindi
 gorey
+gorontalo
 gothenburg
 goulburn
 gouyave
@@ -714,6 +719,7 @@ jacmel
 jaipur
 jakarta
 jalalabad
+jambi
 jamestown
 janauba
 janesville
@@ -721,6 +727,7 @@ jaramillo
 jayapura
 jeddah
 jelgava
+jember
 jenin
 jeremie
 jerusalem
@@ -780,6 +787,7 @@ karlstad
 karpathos
 karratha
 kashgar
+kasongan
 kassala
 kathmandu
 katowice
@@ -794,6 +802,7 @@ kelowna
 kemerovo
 kempsey
 kenai
+kendari
 kenema
 kennewick
 kenosha
@@ -997,6 +1006,7 @@ mangnai
 manila
 mankato
 mannheim
+manokwari
 mansoura
 manta
 manzanillo
@@ -1039,6 +1049,7 @@ melitopol
 memphis
 mendoza
 menindee
+merauke
 merca
 merida
 mersin
@@ -1104,6 +1115,7 @@ mykolaiv
 mysore
 mzuzu
 nabatieh
+nabire
 nablus
 nadi
 nadym
@@ -1226,12 +1238,14 @@ oxford
 oxnard
 oyem
 pachuca
+padang
 paducah
 pakse
 palaiochora
 palembang
 palikir
 palmyra
+palu
 pamplona
 panevezys
 pantelleria
@@ -1254,6 +1268,7 @@ pecs
 peel
 pehuajo
 peja
+pekanbaru
 pelotas
 pembroke
 penonome
@@ -1295,6 +1310,7 @@ podgorica
 pokhara
 poltava
 ponce
+pontianak
 poole
 popayan
 popondetta
@@ -1477,6 +1493,7 @@ sohar
 sokode
 songkhla
 sonsonate
+sorong
 sousse
 southampton
 spartanburg
@@ -1554,6 +1571,7 @@ tashkent
 taunggyi
 taupo
 tauranga
+tawau
 tbilisi
 tebessa
 tefe
