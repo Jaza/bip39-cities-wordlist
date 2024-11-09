@@ -377,6 +377,7 @@ daloa
 dalton
 damascus
 dammam
+danang
 danbury
 dangriga
 danli
@@ -857,6 +858,7 @@ kragujevac
 krakow
 kralendijk
 krasnoyarsk
+kratie
 kremenchuk
 krusevac
 kuantan
@@ -1337,6 +1339,7 @@ puer
 pula
 pune
 puno
+pursat
 putian
 pyatigorsk
 pyongyang
@@ -1476,6 +1479,7 @@ singapore
 sinop
 sinuiju
 sirte
+sisophon
 sitka
 sittwe
 skhoder
