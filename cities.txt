@@ -402,7 +402,6 @@ cunnamulla
 curepipe
 curitiba
 cusco
-cwmbran
 daegu
 daejeon
 dakar
@@ -419,7 +418,6 @@ danbury
 dangriga
 danli
 dannevirke
-daphne
 daqing
 daraa
 darkhan
@@ -670,6 +668,7 @@ gympie
 gyor
 gyumri
 haast
+hadibu
 hagatna
 hagerstown
 haifa
@@ -968,6 +967,7 @@ kunduz
 kunming
 kununurra
 kupang
+kuressaare
 kurgan
 kursk
 kushiro
@@ -1150,7 +1150,6 @@ mbabane
 mbale
 mbarara
 mbeya
-mcallen
 mecca
 medan
 medellin
@@ -1240,6 +1239,7 @@ mwinilunga
 myeik
 myitkyina
 mykolaiv
+myrina
 mysore
 mzuzu
 nabatieh
@@ -1505,7 +1505,6 @@ quevedo
 quimper
 quito
 rabat
-racine
 radcliff
 radisson
 rafah
@@ -1547,6 +1546,7 @@ rockhampton
 rogachevo
 roma
 rome
+ronne
 rorainopolis
 rosario
 roseau
@@ -1868,7 +1868,6 @@ ulaanbaatar
 ulladulla
 ulsan
 ulukhaktok
-ulverstone
 ulyanovsk
 uman
 umea
@@ -1902,6 +1901,7 @@ varanasi
 varna
 vasteras
 vavuniya
+vaxjo
 venice
 veracruz
 vicksburg
