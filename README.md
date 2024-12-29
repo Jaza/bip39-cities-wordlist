@@ -9,11 +9,11 @@ See the [BIP39 Cities Wordlist as a map](https://jaza.github.io/bip39-cities-wor
 
 Example mnemonic sentences generated using this list:
 
-    aurora madrid cixi laurel wailuku sceaux pernik xian havirov siena cuenca vicenza
-    riohacha gandia mashdad pitesti baglan miami ballarat aley poltava cabudare tumut nancy
-    rockford barysaw young trenton ennis bodalla askoy qingdao honolulu balti tainan lund
-    ogre yamba cucuta halmstad lorne regina dangriga dewsbury azua tehuacan ruse faenza
-    coslada limoges crotone shoreham puebla pucallpa ourense fuzhou aden sedgley sacaba blyth
+    orlando joinville vienna sallum rhodes villahermosa memphis adak sudbury balikpapan altai zanzibar
+    anniston okayama biloxi yaroslavl isangel canterbury tebessa penonome liege machala lubango oral
+    armagh yogyakarta jujuy niigata lakeland shizuoka decatur daejeon astrakhan glendive yaren homs
+    brownsville aden dalian machala worcester prayagraj springbok nuremberg dunhuang dubai malabo willemstad
+    madang tamworth colchester erfurt dijon davenport janauba myrina biloxi idlib dakar sidon
 
 ## Characteristics
 
