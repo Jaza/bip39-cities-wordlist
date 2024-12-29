@@ -189,6 +189,7 @@ berlin
 bermejo
 bern
 bethel
+beziers
 bharatpur
 bhopal
 bhubaneswar
@@ -478,6 +479,7 @@ douala
 douglas
 dourados
 dover
+dresden
 drogheda
 dryden
 dubai
@@ -998,7 +1000,6 @@ latakia
 launceston
 lausanne
 lautoka
-lawrence
 lawton
 leava
 lebanon
@@ -1300,6 +1301,7 @@ niamey
 nice
 nicosia
 niigata
+nijmegen
 niksic
 ningbo
 nizhnekamsk
@@ -1327,7 +1329,6 @@ nyiregyhaza
 nyngan
 nzerekore
 oaxaca
-ocala
 ocosingo
 odense
 odesa
@@ -1550,6 +1551,7 @@ ronne
 rorainopolis
 rosario
 roseau
+rostock
 rotorua
 rotterdam
 rouen
@@ -1615,7 +1617,6 @@ seville
 sfax
 shakhty
 shanghai
-shaoxing
 sharjah
 sheberghan
 sheffield
@@ -1846,7 +1847,7 @@ tura
 turbo
 turin
 turku
-turlock
+turnhout
 turukhansk
 tuscaloosa
 tutong
@@ -1888,7 +1889,6 @@ utrecht
 uvalde
 uyuni
 vaasa
-vacaville
 vadodara
 vaduz
 valdivia
@@ -1942,7 +1942,6 @@ warsaw
 warwick
 waspam
 waterford
-watsonville
 wausau
 weifang
 weipa
@@ -1965,6 +1964,7 @@ winchester
 windhoek
 winnipeg
 winton
+wolfsburg
 wollongong
 wonju
 wonsan
@@ -1975,7 +1975,6 @@ wrexham
 wroclaw
 wuhan
 wuhu
-wuxi
 xalapa
 xayaboury
 xiamen
@@ -2046,3 +2045,4 @@ zouerat
 zrenjanin
 zunyi
 zurich
+zwolle
